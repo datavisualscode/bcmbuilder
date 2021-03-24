@@ -1,0 +1,82 @@
+ids,labels,parents
+Develop Vision & Strategy,Develop Vision & Strategy,
+Market & Sell Products,Market & Sell Products,
+Develop Products,Develop Products,
+Manage Supply Chain,Manage Supply Chain,
+Manage Distribution Network & Retail,Manage Distribution Network & Retail,
+Provide Financial Products,Provide Financial Products,
+Manage Financial Resources,Manage Financial Resources,
+Manage Customer Relationship,Manage Customer Relationship,
+Develop Human Capital,Develop Human Capital,
+Manage Risk & Compliance,Manage Risk & Compliance,
+Manage Information Technology,Manage Information Technology,
+Develop Vision & Strategy-Define Long-Term Vision,Define Long-Term Vision,Develop Vision & Strategy
+Develop Vision & Strategy-Develop Business Strategy,Develop Business Strategy,Develop Vision & Strategy
+Develop Vision & Strategy-Manage Strategic Initiatives,Manage Strategic Initiatives,Develop Vision & Strategy
+Develop Vision & Strategy-Promote Sustainability,Promote Sustainability,Develop Vision & Strategy
+Market & Sell Products-Develop Marketing Plan,Develop Marketing Plan,Market & Sell Products
+Market & Sell Products-Manage Campaigns & Leads,Manage Campaigns & Leads,Market & Sell Products
+Market & Sell Products-Manage Brand,Manage Brand,Market & Sell Products
+Market & Sell Products-Manage Sales Plans,Manage Sales Plans,Market & Sell Products
+Market & Sell Products-Manage Pricing & Incentives,Manage Pricing & Incentives,Market & Sell Products
+Market & Sell Products-Enable Online Sales,Enable Online Sales,Market & Sell Products
+Market & Sell Products-Enable Customized Sales,Enable Customized Sales,Market & Sell Products
+Market & Sell Products-Enable Customer Community,Enable Customer Community,Market & Sell Products
+Develop Products-Design Products,Design Products,Develop Products
+Develop Products-Design Customizations,Design Customizations,Develop Products
+Develop Products-Manage Product Pipeline,Manage Product Pipeline,Develop Products
+Develop Products-Build Prototypes,Build Prototypes,Develop Products
+Develop Products-Test & Certify Products,Test & Certify Products,Develop Products
+Manage Supply Chain-Forecast Supply,Forecast Supply,Manage Supply Chain
+"Manage Supply Chain-Forecast Demand"",",Forecast Demand,Manage Supply Chain
+Manage Supply Chain-Source & Procure Materials,Source & Procure Materials,Manage Supply Chain
+Manage Supply Chain-Operate Warehouse,Operate Warehouse,Manage Supply Chain
+Manage Supply Chain-Manage Inventory,Manage Inventory,Manage Supply Chain
+Manage Supply Chain-Schedule Master Production,Schedule Master Production,Manage Supply Chain
+Manage Supply Chain-Manufacture Products,Manufacture Products,Manage Supply Chain
+Manage Supply Chain-Fulfill Orders,Fulfill Orders,Manage Supply Chain
+Manage Supply Chain-Manage Logistics,Manage Logistics,Manage Supply Chain
+Manage Supply Chain-Manage Suppliers,Manage Suppliers,Manage Supply Chain
+Manage Supply Chain-Ensure Quality,Ensure Quality,Manage Supply Chain
+Manage Supply Chain-Maintain Assets,Maintain Assets,Manage Supply Chain
+Manage Dealer Network & Retail-Determine Dealer Plans,Determine Dealer Plans,Manage Distribution Network & Retail
+Manage Dealer Network & Retail-Onboard & Train Dealers,Onboard & Train Dealers,Manage Distribution Network & Retail
+Manage Dealer Network & Retail-Manage Dealer Allocations,Manage Dealer Allocations,Manage Distribution Network & Retail
+Manage Dealer Network & Retail-Perform Stock Transfers,Perform Stock Transfers,Manage Distribution Network & Retail
+Manage Dealer Network & Retail-Manage Retail Operations,Manage Retail Operations,Manage Distribution Network & Retail
+Manage Dealer Network & Retail-Register Vehicles,Register Vehicles,Manage Distribution Network & Retail
+Manage Dealer Network & Retail-Oversee Dealer Services,Oversee Dealer Services,Manage Distribution Network & Retail
+Provide Financial Products-Provide Financing Products,Provide Financing Products,Provide Financial Products
+Provide Financial Products-Provide Protection Products,Provide Protection Products,Provide Financial Products
+Provide Financial Products-Maintain Accounts,Maintain Accounts,Provide Financial Products
+Provide Financial Products-Manage Portfolio Risk,Manage Portfolio Risk,Provide Financial Products
+Manage Financial Resources-Manage General Ledger,Manage General Ledger,Manage Financial Resources
+Manage Financial Resources-Manage Payroll,Manage Payroll,Manage Financial Resources
+Manage Financial Resources-Process Accounts Payable,Process Accounts Payable,Manage Financial Resources
+Manage Financial Resources-Manage Accounts Receivable,Manage Accounts Receivable,Manage Financial Resources
+Manage Financial Resources-Manage Treasury,Manage Treasury,Manage Financial Resources
+Manage Financial Resources-Manage Cash,Manage Cash,Manage Financial Resources
+Manage Financial Resources-Manage Customer Loyalty,Manage Customer Loyalty,Manage Financial Resources
+Manage Customer Relationship-Develop Promotions,Develop Promotions,Manage Customer Relationship
+Manage Customer Relationship-Track Customer Metrics,Track Customer Metrics,Manage Customer Relationship
+Manage Customer Relationship-Manage Complaints,Manage Complaints,Manage Customer Relationship
+Manage Customer Relationship-Manage Warranties,Manage Warranties,Manage Customer Relationship
+Manage Customer Relationship-Manage Service Requests,Manage Service Requests,Manage Customer Relationship
+Manage Customer Relationship-Manage Recalls,Manage Recalls,Manage Customer Relationship
+Develop Human Capital-Manage HR Programs,Manage HR Programs,Develop Human Capital
+Develop Human Capital-Recruit & Hire Employees,Recruit & Hire Employees,Develop Human Capital
+Develop Human Capital-Provide Employee Benefits,Provide Employee Benefits,Develop Human Capital
+Develop Human Capital-Develop & Train Employees,Develop & Train Employees,Develop Human Capital
+Manage Risk & Compliance-Protect Intellectual Property,Protect Intellectual Property,Manage Risk & Compliance
+Manage Risk & Compliance-Manage Legal,Manage Legal,Manage Risk & Compliance
+Manage Risk & Compliance-Ensure Product Compliance,Ensure Product Compliance,Manage Risk & Compliance
+Manage Risk & Compliance-Ensure Safety,Ensure Safety,Manage Risk & Compliance
+Manage Information Technology-Manage Master Data,Manage Master Data,Manage Information Technology
+Manage Information Technology-Perform Analytics,Perform Analytics,Manage Information Technology
+Manage Information Technology-Ensure Information Security,Ensure Information Security,Manage Information Technology
+Manage Information Technology-Manage Master Data-MDM,MDM,Manage Information Technology-Manage Master Data
+Manage Information Technology-Perform Analytics-AI,AI,Manage Information Technology-Perform Analytics
+Manage Information Technology-Ensure Information Security-DecSec,DevSec,Manage Information Technology-Ensure Information Security
+Manage Information Technology-Manage Master Data-Reference Data,Reference Data,Manage Information Technology-Manage Master Data
+Manage Information Technology-Perform Analytics-Machine Learning,Machine Learning,Manage Information Technology-Perform Analytics
+Manage Information Technology-Ensure Information Security-Data Privacy,Data Privacy,Manage Information Technology-Ensure Information Security
