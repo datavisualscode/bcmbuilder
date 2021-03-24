@@ -1,0 +1,514 @@
+[
+  {
+    "L0 ID": 0.1,
+    "Level 0 Capability": "Develop Vision & Strategy",
+    "Level 0 Definition": "Develop the organization's enterprise level vision and business strategy to ensure sustained competitiveness and financial results. ",
+    "L1 ID": "1.1.1",
+    "Level 1 Capability": "Define Long-Term Vision",
+    "Level 1 Definition": "Define the organization's long-term vision to communicate goals to employee, management, and outside investors. "
+  },
+  {
+    "L0 ID": 0.1,
+    "Level 0 Capability": "Develop Vision & Strategy",
+    "Level 0 Definition": "Develop the organization's enterprise level vision and business strategy to ensure sustained competitiveness and financial results. ",
+    "L1 ID": "1.1.2",
+    "Level 1 Capability": "Develop Business Strategy",
+    "Level 1 Definition": "Develop a business strategy to define the key initiatives required to achieve the organization's desired ends (objectives). It can simply be described as long-term business planning."
+  },
+  {
+    "L0 ID": 0.1,
+    "Level 0 Capability": "Develop Vision & Strategy",
+    "Level 0 Definition": "Develop the organization's enterprise level vision and business strategy to ensure sustained competitiveness and financial results. ",
+    "L1 ID": "1.1.3",
+    "Level 1 Capability": "Manage Strategic Initiatives",
+    "Level 1 Definition": "Actively manage the organization's high priority initiatives  in an endeavor intended to transform the organization, remain competitive, and meet key performance indicators.  "
+  },
+  {
+    "L0 ID": 0.1,
+    "Level 0 Capability": "Develop Vision & Strategy",
+    "Level 0 Definition": "Develop the organization's enterprise level vision and business strategy to ensure sustained competitiveness and financial results. ",
+    "L1 ID": "1.1.4",
+    "Level 1 Capability": "Promote Sustainability",
+    "Level 1 Definition": "Adopt a business approach to creates long-term consumer and employee value by creating a \"green\" strategy aimed toward the natural environment and taking into consideration every dimension of how a business operates in the social, cultural, and economic environment."
+  },
+  {
+    "L0 ID": 0.2,
+    "Level 0 Capability": "Market & Sell Products",
+    "Level 0 Definition": "Market and sell products and services to businesses and consumers. ",
+    "L1 ID": "1.2.1",
+    "Level 1 Capability": "Develop Marketing Plan",
+    "Level 1 Definition": "Develop a marketing blueprint that outlines an organization's overall marketing efforts. The marketing plan strives to align product offerings with target markets. "
+  },
+  {
+    "L0 ID": 0.2,
+    "Level 0 Capability": "Market & Sell Products",
+    "Level 0 Definition": "Market and sell products and services to businesses and consumers. ",
+    "L1 ID": "1.2.2",
+    "Level 1 Capability": "Manage Campaigns & Leads",
+    "Level 1 Definition": "Manage and oversee the execution of marketing campaigns and sales leads to driver customer conversion and sales generation."
+  },
+  {
+    "L0 ID": 0.2,
+    "Level 0 Capability": "Market & Sell Products",
+    "Level 0 Definition": "Market and sell products and services to businesses and consumers. ",
+    "L1 ID": "1.2.3",
+    "Level 1 Capability": "Manage Brand",
+    "Level 1 Definition": "Manage the analysis and planning on how that brand is perceived to develop a positive relationship with the target market. "
+  },
+  {
+    "L0 ID": 0.2,
+    "Level 0 Capability": "Market & Sell Products",
+    "Level 0 Definition": "Market and sell products and services to businesses and consumers. ",
+    "L1 ID": "1.2.4",
+    "Level 1 Capability": "Manage Sales Plans",
+    "Level 1 Definition": " Manage sales targets and tactics for the organization, and identifies the steps required to meet territory specific targets."
+  },
+  {
+    "L0 ID": 0.2,
+    "Level 0 Capability": "Market & Sell Products",
+    "Level 0 Definition": "Market and sell products and services to businesses and consumers. ",
+    "L1 ID": "1.2.5",
+    "Level 1 Capability": "Manage Pricing & Incentives",
+    "Level 1 Definition": "Analyze, plan, publish, and execute price to combat a highly competitive market and a global customer base. Apply incentives to drive targeted sales (e.g. seasonal). "
+  },
+  {
+    "L0 ID": 0.2,
+    "Level 0 Capability": "Market & Sell Products",
+    "Level 0 Definition": "Market and sell products and services to businesses and consumers. ",
+    "L1 ID": "1.2.6",
+    "Level 1 Capability": "Enable Online Sales",
+    "Level 1 Definition": "Enable online sales or e-commerce through the development of online based customer shopping channels that extend the existing brick-and-mortar operations."
+  },
+  {
+    "L0 ID": 0.2,
+    "Level 0 Capability": "Market & Sell Products",
+    "Level 0 Definition": "Market and sell products and services to businesses and consumers. ",
+    "L1 ID": "1.2.7",
+    "Level 1 Capability": "Enable Customized Sales",
+    "Level 1 Definition": "Enable customization of standard product configurations to increase the value proposition of the organization's product lines and create a stronger connection with the consumer. "
+  },
+  {
+    "L0 ID": 0.2,
+    "Level 0 Capability": "Market & Sell Products",
+    "Level 0 Definition": "Market and sell products and services to businesses and consumers. ",
+    "L1 ID": "1.2.8",
+    "Level 1 Capability": "Enable Customer Community",
+    "Level 1 Definition": "Provide customer's with an opportunity to network and  build communities that exert positive peer influence across all of the relevant  markets."
+  },
+  {
+    "L0 ID": 0.3,
+    "Level 0 Capability": "Develop Products",
+    "Level 0 Definition": "Develop, design, and engineer products to ensure that innovative products are positioned in the product pipeline. ",
+    "L1 ID": "1.3.1",
+    "Level 1 Capability": "Design Products",
+    "Level 1 Definition": "Create a new product through the formal generation and development of ideas. This often combines art, science, and technology and is facilitated by digital tools."
+  },
+  {
+    "L0 ID": 0.3,
+    "Level 0 Capability": "Develop Products",
+    "Level 0 Definition": "Develop, design, and engineer products to ensure that innovative products are positioned in the product pipeline. ",
+    "L1 ID": "1.3.2",
+    "Level 1 Capability": "Design Customizations",
+    "Level 1 Definition": "Design customization into core products to enable flexible, digitally controlled manufacturing processes and integrate online design capabilities with supply chains."
+  },
+  {
+    "L0 ID": 0.3,
+    "Level 0 Capability": "Develop Products",
+    "Level 0 Definition": "Develop, design, and engineer products to ensure that innovative products are positioned in the product pipeline. ",
+    "L1 ID": "1.3.3",
+    "Level 1 Capability": "Manage Product Pipeline",
+    "Level 1 Definition": "Manage the product pipeline through its entire lifecycle to ensure the appropriate product mix is active. The product pipeline will include products in various phases: development, production, active,  retired."
+  },
+  {
+    "L0 ID": 0.3,
+    "Level 0 Capability": "Develop Products",
+    "Level 0 Definition": "Develop, design, and engineer products to ensure that innovative products are positioned in the product pipeline. ",
+    "L1 ID": "1.3.4",
+    "Level 1 Capability": "Build Prototypes",
+    "Level 1 Definition": "Build a preliminary model of a product, especially a machine, from which more formal design investments are conceived."
+  },
+  {
+    "L0 ID": 0.3,
+    "Level 0 Capability": "Develop Products",
+    "Level 0 Definition": "Develop, design, and engineer products to ensure that innovative products are positioned in the product pipeline. ",
+    "L1 ID": "1.3.5",
+    "Level 1 Capability": "Test & Certify Products",
+    "Level 1 Definition": "Test and certify products to ensure alignment with design specifications, environmental and safety regulations, and production standards. "
+  },
+  {
+    "L0 ID": 0.4,
+    "Level 0 Capability": "Manage Supply Chain",
+    "Level 0 Definition": "Manage the supply chain to effectively plan, source, make, and deliver products and services. ",
+    "L1 ID": "1.4.1",
+    "Level 1 Capability": "Forecast Supply",
+    "Level 1 Definition": "Forecast or predict supply of raw materials, partially finished goods, and finished goods over a specific period of time by leveraging a multi-functional approach. The inputs from sales and marketing, finance, and production should be considered."
+  },
+  {
+    "L0 ID": 0.4,
+    "Level 0 Capability": "Manage Supply Chain",
+    "Level 0 Definition": "Manage the supply chain to effectively plan, source, make, and deliver products and services. ",
+    "L1 ID": "1.4.2",
+    "Level 1 Capability": "Forecast Demand",
+    "Level 1 Definition": "Forecast or predict future product sales over a specific period of time by leveraging a multi-functional approach. The inputs from sales and marketing, finance, and production should be considered."
+  },
+  {
+    "L0 ID": 0.4,
+    "Level 0 Capability": "Manage Supply Chain",
+    "Level 0 Definition": "Manage the supply chain to effectively plan, source, make, and deliver products and services. ",
+    "L1 ID": "1.4.3",
+    "Level 1 Capability": "Source & Procure Materials",
+    "Level 1 Definition": "Source materials through the actions of finding, evaluating and engaging suppliers for acquiring goods and services."
+  },
+  {
+    "L0 ID": 0.4,
+    "Level 0 Capability": "Manage Supply Chain",
+    "Level 0 Definition": "Manage the supply chain to effectively plan, source, make, and deliver products and services. ",
+    "L1 ID": "1.4.4",
+    "Level 1 Capability": "Operate Warehouse",
+    "Level 1 Definition": "Control the movement and storage of materials within a warehouse and process the associated transactions, including shipping, receiving, put away and picking."
+  },
+  {
+    "L0 ID": 0.4,
+    "Level 0 Capability": "Manage Supply Chain",
+    "Level 0 Definition": "Manage the supply chain to effectively plan, source, make, and deliver products and services. ",
+    "L1 ID": "1.4.5",
+    "Level 1 Capability": "Manage Inventory",
+    "Level 1 Definition": "Oversee and control the ordering, storage and insurance of components that a company will use in the production of the items it will sell as well as the overseeing and controlling of quantities of finished products for sale. "
+  },
+  {
+    "L0 ID": 0.4,
+    "Level 0 Capability": "Manage Supply Chain",
+    "Level 0 Definition": "Manage the supply chain to effectively plan, source, make, and deliver products and services. ",
+    "L1 ID": "1.4.6",
+    "Level 1 Capability": "Schedule Master Production",
+    "Level 1 Definition": "Schedule the production of products, assign resources to production,  identify bottlenecks, and quantify other significant production requirements."
+  },
+  {
+    "L0 ID": 0.4,
+    "Level 0 Capability": "Manage Supply Chain",
+    "Level 0 Definition": "Manage the supply chain to effectively plan, source, make, and deliver products and services. ",
+    "L1 ID": "1.4.7",
+    "Level 1 Capability": "Manufacture Products",
+    "Level 1 Definition": "Convert raw materials, components, or parts into finished goods that meet a customer's expectations or specifications."
+  },
+  {
+    "L0 ID": 0.4,
+    "Level 0 Capability": "Manage Supply Chain",
+    "Level 0 Definition": "Manage the supply chain to effectively plan, source, make, and deliver products and services. ",
+    "L1 ID": "1.4.8",
+    "Level 1 Capability": "Fulfill Orders",
+    "Level 1 Definition": "Fulfill customer orders through execution of the point of sales inquiry and delivery of a product to the customer."
+  },
+  {
+    "L0 ID": 0.4,
+    "Level 0 Capability": "Manage Supply Chain",
+    "Level 0 Definition": "Manage the supply chain to effectively plan, source, make, and deliver products and services. ",
+    "L1 ID": "1.4.9",
+    "Level 1 Capability": "Manage Logistics",
+    "Level 1 Definition": "Manage the way resources are moved to the locations where they are required. This includes inbound, outbound, and reverse logistics. "
+  },
+  {
+    "L0 ID": 0.4,
+    "Level 0 Capability": "Manage Supply Chain",
+    "Level 0 Definition": "Manage the supply chain to effectively plan, source, make, and deliver products and services. ",
+    "L1 ID": "1.4.10",
+    "Level 1 Capability": "Manage Suppliers",
+    "Level 1 Definition": "Manage all interactions with third party organizations that supply goods and/or services to an organization in order to maximize the value of those interactions."
+  },
+  {
+    "L0 ID": 0.4,
+    "Level 0 Capability": "Manage Supply Chain",
+    "Level 0 Definition": "Manage the supply chain to effectively plan, source, make, and deliver products and services. ",
+    "L1 ID": "1.4.11",
+    "Level 1 Capability": "Ensure Quality",
+    "Level 1 Definition": "Ensure the desired level of quality in a service or product, especially by means of attention to every stage of the process of delivery or production."
+  },
+  {
+    "L0 ID": 0.4,
+    "Level 0 Capability": "Manage Supply Chain",
+    "Level 0 Definition": "Manage the supply chain to effectively plan, source, make, and deliver products and services. ",
+    "L1 ID": "1.4.12",
+    "Level 1 Capability": "Maintain Assets",
+    "Level 1 Definition": "Maintain assets by deploying a continuous process improvement strategy for improving the availability, safety, reliability and longevity of physical assets (i.e., systems, facilities, equipment and processes)."
+  },
+  {
+    "L0 ID": 0.5,
+    "Level 0 Capability": "Manage Dealer Network & Retail",
+    "Level 0 Definition": "Manage and enable the dealer network to act as the primary channel for product sales.",
+    "L1 ID": "1.5.1",
+    "Level 1 Capability": "Determine Dealer Plans",
+    "Level 1 Definition": "Determine the monthly, quarterly, and annual sales targets and other strategic imperatives required for individual members in the dealer network. "
+  },
+  {
+    "L0 ID": 0.5,
+    "Level 0 Capability": "Manage Dealer Network & Retail",
+    "Level 0 Definition": "Manage and enable the dealer network to act as the primary channel for product sales.",
+    "L1 ID": "1.5.2",
+    "Level 1 Capability": "Onboard & Train Dealers",
+    "Level 1 Definition": "Onboard and train dealers to transfer knowledge from headquarters to the dealer network. This ensures marketing and process continuity across the dealer network. "
+  },
+  {
+    "L0 ID": 0.5,
+    "Level 0 Capability": "Manage Dealer Network & Retail",
+    "Level 0 Definition": "Manage and enable the dealer network to act as the primary channel for product sales.",
+    "L1 ID": "1.5.3",
+    "Level 1 Capability": "Manage Dealer Allocations",
+    "Level 1 Definition": "Allocate product to dealers based on historical sales performance to ensure that inventory is allocated to the highest performing dealers."
+  },
+  {
+    "L0 ID": 0.5,
+    "Level 0 Capability": "Manage Dealer Network & Retail",
+    "Level 0 Definition": "Manage and enable the dealer network to act as the primary channel for product sales.",
+    "L1 ID": "1.5.4",
+    "Level 1 Capability": "Perform Stock Transfers",
+    "Level 1 Definition": "Execute the transfer of \"in stock\" inventory from one dealer to another to satisfy local demand. This can also come in the form of an exchange of vehicles between dealers."
+  },
+  {
+    "L0 ID": 0.5,
+    "Level 0 Capability": "Manage Dealer Network & Retail",
+    "Level 0 Definition": "Manage and enable the dealer network to act as the primary channel for product sales.",
+    "L1 ID": "1.5.5",
+    "Level 1 Capability": "Manage Retail Operations",
+    "Level 1 Definition": "Collaborate with retail outlets (dealers) to manage dealer layout, design of stores, and placement of product across different product lines."
+  },
+  {
+    "L0 ID": 0.5,
+    "Level 0 Capability": "Manage Dealer Network & Retail",
+    "Level 0 Definition": "Manage and enable the dealer network to act as the primary channel for product sales.",
+    "L1 ID": "1.5.6",
+    "Level 1 Capability": "Register Vehicles",
+    "Level 1 Definition": "Register vehicles to track vehicle across its entire lifecycle."
+  },
+  {
+    "L0 ID": 0.5,
+    "Level 0 Capability": "Manage Dealer Network & Retail",
+    "Level 0 Definition": "Manage and enable the dealer network to act as the primary channel for product sales.",
+    "L1 ID": "1.5.7",
+    "Level 1 Capability": "Oversee Dealer Services",
+    "Level 1 Definition": "Provide oversight to ensure that dealer services are provided efficiently and effectively across the dealer network. Services include vehicle maintenance, rider courses, dealer events, etc."
+  },
+  {
+    "L0 ID": 0.6,
+    "Level 0 Capability": "Provide Financial Products",
+    "Level 0 Definition": "Provide financial products to retail and commercial customers that enable the core business. ",
+    "L1 ID": "1.6.1",
+    "Level 1 Capability": "Provide Financing Products",
+    "Level 1 Definition": "Provide products or instruments that lend capital to businesses, consumers and  to help them achieve their goals."
+  },
+  {
+    "L0 ID": 0.6,
+    "Level 0 Capability": "Provide Financial Products",
+    "Level 0 Definition": "Provide financial products to retail and commercial customers that enable the core business. ",
+    "L1 ID": "1.6.2",
+    "Level 1 Capability": "Provide Protection Products",
+    "Level 1 Definition": "Provide insurance or other forms of product protection to businesses and consumers to help them manage their ownership risk. "
+  },
+  {
+    "L0 ID": 0.6,
+    "Level 0 Capability": "Provide Financial Products",
+    "Level 0 Definition": "Provide financial products to retail and commercial customers that enable the core business. ",
+    "L1 ID": "1.6.3",
+    "Level 1 Capability": "Maintain Accounts",
+    "Level 1 Definition": "Maintain accounts so customers have the ability to service their retail or commercial accounts (e.g. update information, make payments, submit applications)."
+  },
+  {
+    "L0 ID": 0.6,
+    "Level 0 Capability": "Provide Financial Products",
+    "Level 0 Definition": "Provide financial products to retail and commercial customers that enable the core business. ",
+    "L1 ID": "1.6.4",
+    "Level 1 Capability": "Manage Portfolio Risk",
+    "Level 1 Definition": "Evaluate the risk and exposure across the portfolio of financing and insurance products. This often entails a detailed credit or risk analysis preceding the granting of a loan or policy.  "
+  },
+  {
+    "L0 ID": 0.7,
+    "Level 0 Capability": "Manage Financial Resources",
+    "Level 0 Definition": "Manage internal financial controls to effectively manage the organization's general ledger, payroll, A/P, A/R, treasury, and cash.",
+    "L1 ID": "1.7.1",
+    "Level 1 Capability": "Manage General Ledger",
+    "Level 1 Definition": "Manage a complete record of financial transactions over the life of a company. The ledger holds account information that is needed to prepare financial statements, and includes accounts for assets, liabilities, owners' equity, revenues and expenses."
+  },
+  {
+    "L0 ID": 0.7,
+    "Level 0 Capability": "Manage Financial Resources",
+    "Level 0 Definition": "Manage internal financial controls to effectively manage the organization's general ledger, payroll, A/P, A/R, treasury, and cash.",
+    "L1 ID": "1.7.2",
+    "Level 1 Capability": "Manage Payroll",
+    "Level 1 Definition": "Manage the sum total of all compensation that a business must pay to its employees for a set period of time or on a given date."
+  },
+  {
+    "L0 ID": 0.7,
+    "Level 0 Capability": "Manage Financial Resources",
+    "Level 0 Definition": "Manage internal financial controls to effectively manage the organization's general ledger, payroll, A/P, A/R, treasury, and cash.",
+    "L1 ID": "1.7.3",
+    "Level 1 Capability": "Process Accounts Payable",
+    "Level 1 Definition": "Process and manage debts that must be paid off within a given period of time in order to avoid default. "
+  },
+  {
+    "L0 ID": 0.7,
+    "Level 0 Capability": "Manage Financial Resources",
+    "Level 0 Definition": "Manage internal financial controls to effectively manage the organization's general ledger, payroll, A/P, A/R, treasury, and cash.",
+    "L1 ID": "1.7.4",
+    "Level 1 Capability": "Manage Accounts Receivable",
+    "Level 1 Definition": "Manage the collection of money from the purchasing entity of a sale."
+  },
+  {
+    "L0 ID": 0.7,
+    "Level 0 Capability": "Manage Financial Resources",
+    "Level 0 Definition": "Manage internal financial controls to effectively manage the organization's general ledger, payroll, A/P, A/R, treasury, and cash.",
+    "L1 ID": "1.7.5",
+    "Level 1 Capability": "Manage Treasury",
+    "Level 1 Definition": "Manage an enterprise's holdings, with the ultimate goal of managing the firm's liquidity and mitigating its operational, financial and reputational risk. This includes a firm's collections, disbursements, concentration, investment and funding activities."
+  },
+  {
+    "L0 ID": 0.7,
+    "Level 0 Capability": "Manage Financial Resources",
+    "Level 0 Definition": "Manage internal financial controls to effectively manage the organization's general ledger, payroll, A/P, A/R, treasury, and cash.",
+    "L1 ID": "1.7.6",
+    "Level 1 Capability": "Manage Cash",
+    "Level 1 Definition": "Manage the collection, handling, and usage of cash. It involves assessing market liquidity, cash flow, and investments"
+  },
+  {
+    "L0 ID": 0.8,
+    "Level 0 Capability": "Manage Customer Relationship",
+    "Level 0 Definition": "Manage the customer relationship to ensure retention of customers and overall goodwill towards the company.",
+    "L1 ID": "1.8.1",
+    "Level 1 Capability": "Manage Customer Loyalty",
+    "Level 1 Definition": "Manage the retention or loyalty of customers to an organization. Organizations often employ loyalty programs which reward customers for repeat business."
+  },
+  {
+    "L0 ID": 0.8,
+    "Level 0 Capability": "Manage Customer Relationship",
+    "Level 0 Definition": "Manage the customer relationship to ensure retention of customers and overall goodwill towards the company.",
+    "L1 ID": "1.8.2",
+    "Level 1 Capability": "Develop Promotions",
+    "Level 1 Definition": "Develop promotional mechanisms to stimulate sales. Promotion includes contests, demonstrations, discounts, exhibitions or trade shows, games, giveaways, point-of-sale displays and merchandising, special offers, and similar activities."
+  },
+  {
+    "L0 ID": 0.8,
+    "Level 0 Capability": "Manage Customer Relationship",
+    "Level 0 Definition": "Manage the customer relationship to ensure retention of customers and overall goodwill towards the company.",
+    "L1 ID": "1.8.3",
+    "Level 1 Capability": "Track Customer Metrics",
+    "Level 1 Definition": "Track customer metrics that determine the overall success of the customer relationship. Metrics include: retention rates, purchases by campaign, customer referrals, repeat customers, etc."
+  },
+  {
+    "L0 ID": 0.8,
+    "Level 0 Capability": "Manage Customer Relationship",
+    "Level 0 Definition": "Manage the customer relationship to ensure retention of customers and overall goodwill towards the company.",
+    "L1 ID": "1.8.4",
+    "Level 1 Capability": "Manage Complaints",
+    "Level 1 Definition": "Manage complaints in order to provide the customer the expected level of service and remediate failed attempts."
+  },
+  {
+    "L0 ID": 0.8,
+    "Level 0 Capability": "Manage Customer Relationship",
+    "Level 0 Definition": "Manage the customer relationship to ensure retention of customers and overall goodwill towards the company.",
+    "L1 ID": "1.8.5",
+    "Level 1 Capability": "Manage Warranties",
+    "Level 1 Definition": "Manage the product warranty and honor the written guarantee, issued to the customer, promising to repair or replace it if necessary within the specified period of time."
+  },
+  {
+    "L0 ID": 0.8,
+    "Level 0 Capability": "Manage Customer Relationship",
+    "Level 0 Definition": "Manage the customer relationship to ensure retention of customers and overall goodwill towards the company.",
+    "L1 ID": "1.8.6",
+    "Level 1 Capability": "Manage Service Requests",
+    "Level 1 Definition": "Manage and disposition service requests through the dealer network and direct to corporate channels in the event that the dealer network is unable to perform service."
+  },
+  {
+    "L0 ID": 0.8,
+    "Level 0 Capability": "Manage Customer Relationship",
+    "Level 0 Definition": "Manage the customer relationship to ensure retention of customers and overall goodwill towards the company.",
+    "L1 ID": "1.8.7",
+    "Level 1 Capability": "Manage Recalls",
+    "Level 1 Definition": "Manage requests to return a product after the discovery of safety issues or product defects that might endanger the consumer or tarnish the product reputation. "
+  },
+  {
+    "L0 ID": 0.9,
+    "Level 0 Capability": "Develop Human Capital",
+    "Level 0 Definition": "Develop human capital to sustain a workforce that can effectively run, build, and grow the business. ",
+    "L1 ID": "1.9.1",
+    "Level 1 Capability": "Manage HR Programs",
+    "Level 1 Definition": "Manage HR programs relating to the finding, screening, recruiting and training job applicants, as well as administering employee-benefit programs. This includes other programs such as employee wellness and diversity. "
+  },
+  {
+    "L0 ID": 0.9,
+    "Level 0 Capability": "Develop Human Capital",
+    "Level 0 Definition": "Develop human capital to sustain a workforce that can effectively run, build, and grow the business. ",
+    "L1 ID": "1.9.2",
+    "Level 1 Capability": "Recruit & Hire Employees",
+    "Level 1 Definition": "Recruit and hire employees to provide the organization with the human capital required to succeed. "
+  },
+  {
+    "L0 ID": 0.9,
+    "Level 0 Capability": "Develop Human Capital",
+    "Level 0 Definition": "Develop human capital to sustain a workforce that can effectively run, build, and grow the business. ",
+    "L1 ID": "1.9.3",
+    "Level 1 Capability": "Provide Employee Benefits",
+    "Level 1 Definition": "Provide employee benefits through indirect means of compensating workers. Employees receive these benefits above and beyond their wages to ensure employee well being. "
+  },
+  {
+    "L0 ID": 0.9,
+    "Level 0 Capability": "Develop Human Capital",
+    "Level 0 Definition": "Develop human capital to sustain a workforce that can effectively run, build, and grow the business. ",
+    "L1 ID": "1.9.4",
+    "Level 1 Capability": "Develop & Train Employees",
+    "Level 1 Definition": "Develop and train new and existing employees to ensure that skills and competencies meet current and target needs. "
+  },
+  {
+    "L0 ID": 0.1,
+    "Level 0 Capability": "Manage Risk & Compliance",
+    "Level 0 Definition": "Manage risk and compliance to ensure regulatory compliance,  limit liabilities and mitigate risks. ",
+    "L1 ID": "1.10.1",
+    "Level 1 Capability": "Protect Intellectual Property",
+    "Level 1 Definition": "Protect intellectual property to sustain ownership and rights to concepts and ideas through the use of patents, trademarks or copyrights."
+  },
+  {
+    "L0 ID": 0.1,
+    "Level 0 Capability": "Manage Risk & Compliance",
+    "Level 0 Definition": "Manage risk and compliance to ensure regulatory compliance,  limit liabilities and mitigate risks. ",
+    "L1 ID": "1.10.2",
+    "Level 1 Capability": "Manage Legal",
+    "Level 1 Definition": "Provide, source,  and organize legal counsel services across the enterprise in both defense and prosecution roles. "
+  },
+  {
+    "L0 ID": 0.1,
+    "Level 0 Capability": "Manage Risk & Compliance",
+    "Level 0 Definition": "Manage risk and compliance to ensure regulatory compliance,  limit liabilities and mitigate risks. ",
+    "L1 ID": "1.10.3",
+    "Level 1 Capability": "Ensure Product Compliance",
+    "Level 1 Definition": "Ensure product compliance and keep pace with evolving laws and regulations. This includes rapid innovation in order to create compliant products."
+  },
+  {
+    "L0 ID": 0.1,
+    "Level 0 Capability": "Manage Risk & Compliance",
+    "Level 0 Definition": "Manage risk and compliance to ensure regulatory compliance,  limit liabilities and mitigate risks. ",
+    "L1 ID": "1.10.4",
+    "Level 1 Capability": "Ensure Safety",
+    "Level 1 Definition": "Ensure workplace safety and the use of safety elements to protect employees, consumers, and the general public. "
+  },
+  {
+    "L0 ID": 0.11,
+    "Level 0 Capability": "Manage Information Technology",
+    "Level 0 Definition": "Manage information technology to ensure that enterprise data is protected leveraged to make business decisions.",
+    "L1 ID": "1.11.1",
+    "Level 1 Capability": "Manage Master Data",
+    "Level 1 Definition": "Enable an enterprise to link all of its critical data to one file, called a master file, that provides a common point of reference.",
+    },
+  {
+    "L0 ID": 0.11,
+    "Level 0 Capability": "Manage Information Technology",
+    "Level 0 Definition": "Manage information technology to ensure that enterprise data is protected leveraged to make business decisions.",
+    "L1 ID": "1.11.2",
+    "Level 1 Capability": "Perform Analytics",
+    "Level 1 Definition": "Apply analytics to large sets of business data, to describe, predict, and improve business performance."
+  },
+  {
+    "L0 ID": 0.11,
+    "Level 0 Capability": "Manage Information Technology",
+    "Level 0 Definition": "Manage information technology to ensure that enterprise data is protected leveraged to make business decisions.",
+    "L1 ID": "1.11.3",
+    "Level 1 Capability": "Ensure Information Security",
+    "Level 1 Definition": "Defend the enterprise's information from unauthorized access, use, disclosure, disruption, modification, perusal, inspection, recording or destruction."
+  }
+]
