@@ -6,4 +6,4 @@ Easily generate and visualize Business Capability Models using this handy HTML p
 
 
 
-# Brought to you by mwerks.io 
+### Brought to you by mwerks.io 
