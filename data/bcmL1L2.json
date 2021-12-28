@@ -233,59 +233,59 @@
   },
   {
     "L0 ID": 0.5,
-    "Level 0 Capability": "Manage Dealer Network & Retail",
-    "Level 0 Definition": "Manage and enable the dealer network to act as the primary channel for product sales.",
+    "Level 0 Capability": "Manage Distributor Network & Retail",
+    "Level 0 Definition": "Manage and enable the Distributor network to act as the primary channel for product sales.",
     "L1 ID": "1.5.1",
-    "Level 1 Capability": "Determine Dealer Plans",
-    "Level 1 Definition": "Determine the monthly, quarterly, and annual sales targets and other strategic imperatives required for individual members in the dealer network. "
+    "Level 1 Capability": "Determine Distributor Plans",
+    "Level 1 Definition": "Determine the monthly, quarterly, and annual sales targets and other strategic imperatives required for individual members in the Distributor network. "
   },
   {
     "L0 ID": 0.5,
-    "Level 0 Capability": "Manage Dealer Network & Retail",
-    "Level 0 Definition": "Manage and enable the dealer network to act as the primary channel for product sales.",
+    "Level 0 Capability": "Manage Distributor Network & Retail",
+    "Level 0 Definition": "Manage and enable the Distributor network to act as the primary channel for product sales.",
     "L1 ID": "1.5.2",
-    "Level 1 Capability": "Onboard & Train Dealers",
-    "Level 1 Definition": "Onboard and train dealers to transfer knowledge from headquarters to the dealer network. This ensures marketing and process continuity across the dealer network. "
+    "Level 1 Capability": "Onboard & Train Distributors",
+    "Level 1 Definition": "Onboard and train Distributors to transfer knowledge from headquarters to the Distributor network. This ensures marketing and process continuity across the Distributor network. "
   },
   {
     "L0 ID": 0.5,
-    "Level 0 Capability": "Manage Dealer Network & Retail",
-    "Level 0 Definition": "Manage and enable the dealer network to act as the primary channel for product sales.",
+    "Level 0 Capability": "Manage Distributor Network & Retail",
+    "Level 0 Definition": "Manage and enable the Distributor network to act as the primary channel for product sales.",
     "L1 ID": "1.5.3",
-    "Level 1 Capability": "Manage Dealer Allocations",
-    "Level 1 Definition": "Allocate product to dealers based on historical sales performance to ensure that inventory is allocated to the highest performing dealers."
+    "Level 1 Capability": "Manage Distributor Allocations",
+    "Level 1 Definition": "Allocate product to Distributors based on historical sales performance to ensure that inventory is allocated to the highest performing Distributors."
   },
   {
     "L0 ID": 0.5,
-    "Level 0 Capability": "Manage Dealer Network & Retail",
-    "Level 0 Definition": "Manage and enable the dealer network to act as the primary channel for product sales.",
+    "Level 0 Capability": "Manage Distributor Network & Retail",
+    "Level 0 Definition": "Manage and enable the Distributor network to act as the primary channel for product sales.",
     "L1 ID": "1.5.4",
     "Level 1 Capability": "Perform Stock Transfers",
-    "Level 1 Definition": "Execute the transfer of \"in stock\" inventory from one dealer to another to satisfy local demand. This can also come in the form of an exchange of vehicles between dealers."
+    "Level 1 Definition": "Execute the transfer of \"in stock\" inventory from one Distributor to another to satisfy local demand. This can also come in the form of an exchange of vehicles between Distributors."
   },
   {
     "L0 ID": 0.5,
-    "Level 0 Capability": "Manage Dealer Network & Retail",
-    "Level 0 Definition": "Manage and enable the dealer network to act as the primary channel for product sales.",
+    "Level 0 Capability": "Manage Distributor Network & Retail",
+    "Level 0 Definition": "Manage and enable the Distributor network to act as the primary channel for product sales.",
     "L1 ID": "1.5.5",
     "Level 1 Capability": "Manage Retail Operations",
-    "Level 1 Definition": "Collaborate with retail outlets (dealers) to manage dealer layout, design of stores, and placement of product across different product lines."
+    "Level 1 Definition": "Collaborate with retail outlets (Distributors) to manage Distributor layout, design of stores, and placement of product across different product lines."
   },
   {
     "L0 ID": 0.5,
-    "Level 0 Capability": "Manage Dealer Network & Retail",
-    "Level 0 Definition": "Manage and enable the dealer network to act as the primary channel for product sales.",
+    "Level 0 Capability": "Manage Distributor Network & Retail",
+    "Level 0 Definition": "Manage and enable the Distributor network to act as the primary channel for product sales.",
     "L1 ID": "1.5.6",
     "Level 1 Capability": "Register Vehicles",
     "Level 1 Definition": "Register vehicles to track vehicle across its entire lifecycle."
   },
   {
     "L0 ID": 0.5,
-    "Level 0 Capability": "Manage Dealer Network & Retail",
-    "Level 0 Definition": "Manage and enable the dealer network to act as the primary channel for product sales.",
+    "Level 0 Capability": "Manage Distributor Network & Retail",
+    "Level 0 Definition": "Manage and enable the Distributor network to act as the primary channel for product sales.",
     "L1 ID": "1.5.7",
-    "Level 1 Capability": "Oversee Dealer Services",
-    "Level 1 Definition": "Provide oversight to ensure that dealer services are provided efficiently and effectively across the dealer network. Services include vehicle maintenance, rider courses, dealer events, etc."
+    "Level 1 Capability": "Oversee Distributor Services",
+    "Level 1 Definition": "Provide oversight to ensure that Distributor services are provided efficiently and effectively across the Distributor network. Services include vehicle maintenance, rider courses, Distributor events, etc."
   },
   {
     "L0 ID": 0.6,
@@ -413,7 +413,11 @@
     "Level 0 Definition": "Manage the customer relationship to ensure retention of customers and overall goodwill towards the company.",
     "L1 ID": "1.8.6",
     "Level 1 Capability": "Manage Service Requests",
+<<<<<<< HEAD
     "Level 1 Definition": "Manage and disposition service requests through the dealer network and direct to corporate channels in the event that the dealer network is unable to perform service."
+=======
+    "Level 1 Definition": "Manage and disposition service requests through the Distributor network and direct to corporate channels in the event that the Distributor network is unable to perform service."
+>>>>>>> e295a45 (12-21 updated project)
   },
   {
     "L0 ID": 0.8,
