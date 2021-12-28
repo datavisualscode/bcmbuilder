@@ -10,6 +10,11 @@ fig = go.Figure(go.Treemap(
         ids = df.ids,
         labels = df.labels,
         parents = df.parents,
-        marker_colors = ["pink", "royalblue", "lightgray", "purple", "cyan", "lightgray", "lightblue"]))
+        marker_colorscale = 'Blues'))
+        # marker_colors = ["pink", "royalblue", "lightgray", "purple", "cyan", "lightgray", "lightblue"]))
+
 #fig.write_html("bcm.html")
+
+fig.update_layout(margin = dict(t=50, l=25, r=25, b=25))
+
 fig.show()
