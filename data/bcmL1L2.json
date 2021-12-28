@@ -413,11 +413,7 @@
     "Level 0 Definition": "Manage the customer relationship to ensure retention of customers and overall goodwill towards the company.",
     "L1 ID": "1.8.6",
     "Level 1 Capability": "Manage Service Requests",
-<<<<<<< HEAD
-    "Level 1 Definition": "Manage and disposition service requests through the dealer network and direct to corporate channels in the event that the dealer network is unable to perform service."
-=======
     "Level 1 Definition": "Manage and disposition service requests through the Distributor network and direct to corporate channels in the event that the Distributor network is unable to perform service."
->>>>>>> e295a45 (12-21 updated project)
   },
   {
     "L0 ID": 0.8,
